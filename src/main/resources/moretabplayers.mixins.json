@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.github.bnt4.moretabplayers.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"PlayerTabOverlayMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

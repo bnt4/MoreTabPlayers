@@ -1,0 +1,14 @@
+{
+  "text.autoconfig.moretabplayers.title": "More Tab Players Settings",
+  "text.autoconfig.moretabplayers.option.enabled": "Enabled",
+  "text.autoconfig.moretabplayers.option.enabled.@Tooltip": "Toggle the mod on/off. If disabled, vanilla limits (80 total players, 20 per column) are used.\nKeybind: i (configurable in settings)",
+  "text.autoconfig.moretabplayers.option.maxPlayers": "Max Total Players",
+  "text.autoconfig.moretabplayers.option.maxPlayers.@Tooltip": "The maximum number of players shown in the tab list.\nMod Default: 260, Vanilla: 80",
+  "text.autoconfig.moretabplayers.option.maxPlayersPerColumn": "Max Players per Column",
+  "text.autoconfig.moretabplayers.option.maxPlayersPerColumn.@Tooltip": "How many players to display vertically before creating a new column.\nMod Default: 40, Vanilla: 20",
+  "key.moretabplayers.config": "Open Configuration",
+  "category.moretabplayers.general": "More Tab Players",
+  "key.category.moretabplayers.category": "More Tab Players",
+  "key.moretabplayers.toggle_mod": "Toggle More Tab Players",
+  "key.moretabplayers.open_settings": "Open More Tab Players Settings"
+}
