@@ -34,13 +34,13 @@ public class MoreTabPlayersClient implements ClientModInitializer {
 
 		KeyMapping toggleModKey = KeyMappingHelper.registerKeyMapping(
 				new KeyMapping("key." + MOD_ID + ".toggle_mod",
-						InputConstants.Type.KEYSYM,
+						InputConstants.Type.KEYBOARD,
 						InputConstants.KEY_I,
 						category));
 
 		KeyMapping openModSettingsKey = KeyMappingHelper.registerKeyMapping(
 				new KeyMapping("key." + MOD_ID + ".open_settings",
-						InputConstants.Type.KEYSYM,
+						InputConstants.Type.KEYBOARD,
 						InputConstants.UNKNOWN.getValue(), // default unbound
 						category));
 
